@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\16.0\Common\COM Compatibility\{DFEAF541-F3E1-4c24-ACAC-99C30715084A}]
+"Compatibility Flags"=dword:0
+"ActivationFilterOverride"=dword:1
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Office\16.0\Common\COM Compatibility\{DFEAF541-F3E1-4c24-ACAC-99C30715084A}]
+"Compatibility Flags"=dword:0
+"ActivationFilterOverride"=dword:1
